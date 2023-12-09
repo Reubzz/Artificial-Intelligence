@@ -1,22 +1,29 @@
 # Artificial Intelligence - Practicals
 
-[Alpha Beta Prunning](./alphabeta.py)
+[1A  - Breadth First Search](./bfs.py)
 
-[A star](./ASTAR.py)
+[1B  - Depth First Search](./dfs.py)
 
-[Breadth First Search](./bfs.py)
+[2   - N Queens Problem](./N_queens.py)
 
-[Block World Problem](./BLOCKWORLD.py)
+[3   - Tower of Hanoi](./tower_of_hanoi.py)
+ 
+[4   - Alpha Beta Prunning](./alphabeta.py)
 
-[Cannibals Missionaries Problem](./cannibal.py)
+[5   - Water Jug Problem](./waterjug.py)
 
-[Cards](./cards.py)
+[6   - Cannibals Missionaries Problem](./cannibal.py)
 
-[Depth First Search](./dfs.py)
+[7   - Shuffle Cards](./cards.py)
 
-[N Queens Problem](./N_queens.py)
+[8   - Associative Law]()
 
-[Tower of Hanoi](./tower_of_hanoi.py)
+[9   - Derivative Law]()
 
-[Water Jug Problem](./waterjug.py)
+[10A - To derive Predicate]()
 
+[10B - Make Relations from 3 Predicates. Mother, Father, Parent]()
+
+[11  - Block World Problem](./BLOCKWORLD.py)
+
+[12  - A star Searcg](./ASTAR.py)
