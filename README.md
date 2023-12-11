@@ -22,7 +22,7 @@
 
 [10A - To derive Predicate](./prolog/predicate-cricket.pl)
 
-[10B - Make Relations from 3 Predicates. Mother, Father, Parent](./prolog/predicate-family.pl)
+[10B - Make Relations from 3 Predicates. Mother, Father, Parent. Make rules for the following - Mother, Father, Grandfather, Grandmother, Brother, Sister, Uncle, Aunt, Nephew, Niece Cousin](./prolog/predicate-family.pl)
 
 [11  - Block World Problem](./python/BLOCKWORLD.py)
 
