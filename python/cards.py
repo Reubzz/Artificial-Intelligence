@@ -9,7 +9,7 @@ def shuffle_deck(deck):
 
 def display_deck(deck):
     for card in deck:
-        print(f"{card['rank']} of {card['suit']}")
+        print(card['rank'], "of", card['suit'])
         
 shuffle_deck(deck)
 print("shuffles deck:")
